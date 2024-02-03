@@ -1,0 +1,45 @@
+/* Style the body tag */
+body {
+    font-family: Arial, sans-serif; /* Example font family */
+    font-size: 16px; /* Example font size */
+  }
+  
+  /* Style the header tag */
+  header {
+    background-color: #3498db; /* Example background color */
+  }
+  
+  /* Style the nav tag */
+  nav {
+    background-color: #2ecc71; /* Example background color */
+  }
+  
+  /* Style the main tag */
+  main {
+    background-color: #ecf0f1; /* Example background color */
+    font-size: 18px; /* Example font size */
+  }
+  
+  /* Style the footer tag */
+  footer {
+    background-color: #e74c3c; /* Example background color */
+  }
+  
+  /* Style the li tag */
+  li {
+    display: inline-block; /* Example display property */
+    width: 100px; /* Example width property */
+  }
+  
+  /* Style the h1 tag */
+  h1 {
+    text-align: center; /* Example text alignment */
+    font-family: 'Times New Roman', serif; /* Example font family */
+    color: #333; /* Example color property */
+  }
+  
+  /* Style the p tag */
+  p {
+    line-height: 1.5; /* Example line height property */
+  }
+  
